@@ -21,13 +21,13 @@ by: Denmark Lora
 
 LABELS DESCRIBTION.
 
-*DF2 is the clean dataset. contoins 180 observation and 88 variables.
-*includes only the mean and std of all parameters.
-*with 30 subjects and 6 activities
-activities below:
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+#*DF2 is the clean dataset. contoins 180 observation and 88 variables.
+#*includes only the mean and std of all parameters.
+#*with 30 subjects and 6 activities
+#activities below:
+#1 WALKING
+#2 WALKING_UPSTAIRS
+#3 WALKING_DOWNSTAIRS
+#4 SITTING
+#5 STANDING
+#6 LAYING
